@@ -9,8 +9,8 @@ At Icinga we love transparency and collaboration. Together with our community we
 Be part of the active and global Icinga community! Ask questions, share knowledge and meet people like you. As an Open Source company we are keen on helping and inspiring each other. Join in!
 
 * [Community Forum](https://community.icinga.com/): Discuss and share best practices, receive and give advice to others
-* [Events](https://icinga.com/community/events/): Enhance and share your Icinga knowledge
 * [Icinga Exchange](https://exchange.icinga.com/): Download and share plugins and other extensions
+* [Icinga Summit 2024](https://icinga.com/summit/): Meet us in Berlin for talks, workshops, and more (5-6 June 2024)
 
 Don't forget that all participation is governed by our [Code of conduct](https://icinga.com/community/code-of-conduct).
 
