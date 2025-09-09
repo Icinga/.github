@@ -20,7 +20,7 @@ Learn how to inspect your entire infrastructure with the help of our documentati
 * [Get started guide](https://icinga.com/get-started/)
 * [Documentation](https://icinga.com/learn/)
 * [Blog](https://icinga.com/blog/)
-* [Online demo](https://icinga.com/demo)
+* [Online demo](https://demo.icinga.com/)
 
 ## Need help from professionals?
 
