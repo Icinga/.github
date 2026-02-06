@@ -1,4 +1,4 @@
-![Icinga Banner](https://raw.githubusercontent.com/Icinga/.github/main/profile/icinga_banner_wide.jpg)
+![Icinga Banner](https://raw.githubusercontent.com/Icinga/.github/main/profile/icinga_banner_notifications_webinar.png)
 
 # Welcome to the Icinga community
 
