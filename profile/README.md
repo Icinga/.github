@@ -1,4 +1,5 @@
-![Icinga Banner](https://raw.githubusercontent.com/Icinga/.github/main/profile/icinga_banner_notifications_webinar.png)
+[![Icinga Banner](https://raw.githubusercontent.com/Icinga/.github/main/profile/icinga_banner_notifications_webinar.png)](https://icinga.com/webinars/icinga-notifications-improving-alerting-and-incident-workflows/)
+
 
 # Welcome to the Icinga community
 
