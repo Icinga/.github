@@ -1,4 +1,4 @@
-[![Icinga Banner](https://raw.githubusercontent.com/Icinga/.github/main/profile/icinga_banner_notifications_webinar.png)](https://icinga.com/webinars/icinga-notifications-improving-alerting-and-incident-workflows/)
+[![Manage Icinga with Ansible Webinar](https://raw.githubusercontent.com/Icinga/.github/main/profile/Manage-Icinga-with-Ansible-Git.png)](https://icinga.com/webinars/how-to-manage-icinga-with-ansible/)
 
 
 # Welcome to the Icinga community
