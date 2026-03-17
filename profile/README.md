@@ -1,4 +1,4 @@
-[![Manage Icinga with Ansible Webinar](https://raw.githubusercontent.com/Icinga/.github/main/profile/Manage-Icinga-with-Ansible-Git.png)](https://icinga.com/webinars/how-to-manage-icinga-with-ansible/)
+[![Monitor Windows with Icinga Webinar](Monitor-Windows-with-Icinga-Git.png)](https://icinga.com/webinars/how-to-monitor-windows-with-icinga/)
 
 
 # Welcome to the Icinga community
