@@ -1,4 +1,4 @@
-[![Monitor Windows with Icinga Webinar](Monitor-Windows-with-Icinga-Git.png)](https://icinga.com/webinars/how-to-monitor-windows-with-icinga/)
+[![Manage Icinga Configuration with Terraform Webinar](Icinga-with-Terraform.png)](https://icinga.com/webinars/infrastructure-as-code-for-icinga-with-terraform/)
 
 
 # Welcome to the Icinga community
