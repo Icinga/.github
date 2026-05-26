@@ -1,4 +1,4 @@
-[![Manage Icinga Configuration with Terraform Webinar](Icinga-with-Terraform.png)](https://icinga.com/webinars/infrastructure-as-code-for-icinga-with-terraform/)
+[![Icinga with OpenTelemetry Webinar](Icinga-with-Otel.png)](https://icinga.com/webinars/icinga-opentelemetry-metrics/)
 
 
 # Welcome to the Icinga community
