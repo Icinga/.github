@@ -1,5 +1,4 @@
-[![Icinga with OpenTelemetry Webinar](Icinga-with-Otel.png)](https://icinga.com/webinars/icinga-opentelemetry-metrics/)
-
+[![Icinga Banner](icinga_banner_wide.jpg)](https://icinga.com/)
 
 # Welcome to the Icinga community
 
